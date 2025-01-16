@@ -1,0 +1,16 @@
+.login-page-container{
+  display: flex;
+  
+  justify-content: flex-start;
+ align-items: center;
+  height:100vh;
+  background-image:url('https://rebrand.ly/2sisxvs');
+  background-size:contain;
+  background-repeat: no-repeat;  
+  background-position: center;
+}
+.login-form-container{
+  padding-left: 300px;
+}
+
+
